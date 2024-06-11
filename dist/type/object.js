@@ -1,5 +1,6 @@
+"use strict";
 // Object - It used to represents the data with key value pairs. Each key in the object is a string that maps to value.
-var person = {
+const person = {
     name: "ritesh",
     age: 27,
     isAdmin: true,
